@@ -1,0 +1,18 @@
+{
+    
+    
+    "css_selectors": {
+        "firstNameInput": "[name='firstName']",
+        "lastNameInput": "[name='lastName']",
+        "emailInput": "[name='email']",
+        "passwordInput": "[name='password']",
+        "createAccountBtn": "[value='Create Account']"
+    },
+    "text_selectors": {
+        "loginPage": "Sign in to Amega",
+        "signupLink":"Sign up",
+        "welcomeToAmegaPage":"Welcome to Amega!",
+        "emailIsAlreadyRegisteredErrorMsg":"This email is already registered, please login"
+    }
+
+}

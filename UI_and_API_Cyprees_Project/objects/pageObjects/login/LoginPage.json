@@ -1,0 +1,10 @@
+{
+
+    "css_selectors": {
+        "loginEmailInput": "input[name='email']",
+        "loginPasswordInput":"input[name='password']",
+        "signInBtn": "[value='Sign in']",
+        "acceptCookesPopupBtn":"button#onetrust-accept-btn-handler"
+    }
+
+}

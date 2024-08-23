@@ -1,0 +1,9 @@
+{
+    "css_selectors": {
+        "hubBtn": "#button-hub"
+    },
+    "text_selectors": {
+        "verifyYourProfileToUnlockAllFeaturesOption":"Verify your profile to unlock all features",
+        "signOutBtn": "Sign out"
+    }   
+}
