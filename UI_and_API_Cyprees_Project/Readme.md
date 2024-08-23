@@ -1,4 +1,4 @@
-# End to End MakeWithTech UI Automation Testing And API Automation Testing
+# End to End UI Automation Testing And API Automation Testing
 ## Prerequisite 
 - Node (v16.17.0) or Greater version [link](https://www.npackd.org/p/org.nodejs.NodeJS64/14.17.4) 
 - VS Code (v1.76) or Greater version [link](https://code.visualstudio.com/docs/?dv=win) 
