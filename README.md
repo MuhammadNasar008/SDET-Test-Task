@@ -8,10 +8,10 @@ This repository contains two projects for the SDET test task at Amega:
 ## Project Structure
 
 SDET-Test-Task/
-│
+
 ├── Mobile/ # WebdriverIO mobile tests
-│ └── Tests/ # Mobile test scripts
-│
+  -  Tests/ # Mobile test scripts
+
 ├── Web/API # UI_and_API_Cyprees_Project
-│ └── Cypress/ # Cypress test scripts
+  -  Cypress/ # Cypress test scripts
 
