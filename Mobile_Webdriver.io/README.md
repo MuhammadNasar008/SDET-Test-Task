@@ -76,6 +76,9 @@ WebdriverIO is a custom implementation of Selenium's WebDriver API. This project
 
 - The project is organized as follows:
 
+  ![image](https://github.com/user-attachments/assets/842b00a7-f66c-4783-8b19-bb93eeabf5dc)
+
+
 .
 ├── apps                            # Contains APK files
 │   ├── app-1.apk                  # Example APK file
