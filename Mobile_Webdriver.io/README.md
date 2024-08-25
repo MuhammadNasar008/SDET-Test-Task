@@ -56,16 +56,8 @@ WebdriverIO is a custom implementation of Selenium's WebDriver API. This project
    
 - Configured to run tests on Android devices with the following options:
         
-        `capabilities: [
-    {
-        maxInstances: 5,
-        platformName: 'Android',
-        platformVersion: '11', // Specify your Android version
-        deviceName: 'Android Emulator',
-        app: '<path-to-your-apk>', // Path to your APK file
-        automationName: 'UiAutomator2',
-    },
-], `
+   ![image](https://github.com/user-attachments/assets/e7d5589b-b077-4a17-9fd1-ff22ff4f0a2b)
+
 
 ## Running Tests
 
