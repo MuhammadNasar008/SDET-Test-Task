@@ -70,27 +70,6 @@ WebdriverIO is a custom implementation of Selenium's WebDriver API. This project
 
   ![image](https://github.com/user-attachments/assets/842b00a7-f66c-4783-8b19-bb93eeabf5dc)
 
-
-.
-├── apps                            # Contains APK files
-│   ├── app-1.apk                  # Example APK file
-│   └── ...
-├── configuration                   # Contains configuration files
-│   ├── wdio.shared.local.appium.conf.js # Shared configuration for Appium
-│   └── wdio.conf.js                # Main WebdriverIO configuration
-├── pageobjects                     # Contains page objects and steps
-│   ├── login.page.js              # Page object for login
-│   ├── login.step.js              # Steps for login functionality
-│   └── ...
-├── reports                         # Contains test reports generated after execution
-│   ├── report.html                 # Example report file
-│   └── ...
-├── tests                           # Contains test case files
-│   ├── specs                       # Test specification files
-│   │   ├── app.signup.spec.js      # Contains sign-up test cases for the Android app
-│   │   └── ...
-└── .env
-
 ## Writing Tests
 
 - To add a new test, create a new `.spec.js` file in the `tests/specs` directory. Each test file should export a Mocha describe block with it statements for each test case.
